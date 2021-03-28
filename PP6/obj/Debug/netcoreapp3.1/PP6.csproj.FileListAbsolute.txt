@@ -1,0 +1,13 @@
+E:\PP\PP6\PP6\bin\Debug\netcoreapp3.1\PP6.exe
+E:\PP\PP6\PP6\bin\Debug\netcoreapp3.1\PP6.deps.json
+E:\PP\PP6\PP6\bin\Debug\netcoreapp3.1\PP6.runtimeconfig.json
+E:\PP\PP6\PP6\bin\Debug\netcoreapp3.1\PP6.runtimeconfig.dev.json
+E:\PP\PP6\PP6\bin\Debug\netcoreapp3.1\PP6.dll
+E:\PP\PP6\PP6\bin\Debug\netcoreapp3.1\PP6.pdb
+E:\PP\PP6\PP6\obj\Debug\netcoreapp3.1\PP6.csprojAssemblyReference.cache
+E:\PP\PP6\PP6\obj\Debug\netcoreapp3.1\PP6.AssemblyInfoInputs.cache
+E:\PP\PP6\PP6\obj\Debug\netcoreapp3.1\PP6.AssemblyInfo.cs
+E:\PP\PP6\PP6\obj\Debug\netcoreapp3.1\PP6.csproj.CoreCompileInputs.cache
+E:\PP\PP6\PP6\obj\Debug\netcoreapp3.1\PP6.dll
+E:\PP\PP6\PP6\obj\Debug\netcoreapp3.1\PP6.pdb
+E:\PP\PP6\PP6\obj\Debug\netcoreapp3.1\PP6.genruntimeconfig.cache
